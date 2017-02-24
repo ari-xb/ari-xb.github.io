@@ -49,7 +49,7 @@ summary {
   transform: scaleY(0.5774) rotate(-45deg);
   background: inherit;
   left: 33.08px;
-  box-shadow: 0 0 20px rgba(0,255,255,0.6);
+  box-shadow: 0 0 50px rgba(0,255,255,0.9);
 }
 
 /*counter transform the bg image on the caps*/
@@ -99,7 +99,7 @@ summary {
   background: inherit;
 }
 h2 {
-  text-align: center;  
+  text-align: center;
 }
 audio,
 canvas,
@@ -1256,7 +1256,7 @@ h6,
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   line-height: 1.2;
-  color: #317eac;
+  color: #00c1c0;
 }
 h1 small,
 h2 small,
