@@ -102,6 +102,12 @@ summary {
 h2 {
   text-align: center;
 }
+
+#italic {
+  font-style: italic;
+  text-align: right;
+}
+
 audio,
 canvas,
 progress,
