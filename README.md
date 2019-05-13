@@ -2,6 +2,6 @@
 
 ### The professional Web Development portfolio of Ari Crosby.
 
-Under construction
+*Working on this*
 
 "No fate but what we make"
