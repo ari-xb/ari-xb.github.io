@@ -4,4 +4,4 @@
 
 *UNDER CONSTRUCTION*
 
-"No fate but what we make -SC"
+"No (dark) fate but what we make -SC"
